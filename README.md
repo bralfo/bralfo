@@ -27,6 +27,6 @@ Desenvolvedor de Software em formação pela **UFBRA**, focado na construção d
 </div>
 
 ### 🚀 Projetos em Destaque
-- **[Insira o Título do seu Jogo aqui](Link_para_o_repositorio):** Jogo digital desenvolvido em C# aplicando Programação Orientada a Objetos, gerenciamento de estado e arquitetura baseada em componentes na Unity.
-- **[E-commerce de Instrumentos Musicais](Link_para_o_repositorio):** Plataforma web multidisciplinar estruturada de ponta a ponta, desde a engenharia de requisitos e escopo até a implementação final da interface.
-- **[Aplicativo Android/Ionic](Link_para_o_repositorio):** Desenvolvimento mobile com foco em organização de rotas de dados e cultura de testes.
+- **[Querem Roubar Meus Ovos]([Link_para_o_repositorio](https://github.com/bralfo/QueremRoubarMeusOvos)):** Jogo digital desenvolvido em C# aplicando Programação Orientada a Objetos, gerenciamento de estado e arquitetura baseada em componentes na Unity. 
+- **[SnowThrow]([Link_para_o_repositorio](https://github.com/bralfo/SnowThrow)):** Jogo digital 3d desenvolvido com C#.
+- **[AlgorithmusVitae]([Link_para_o_repositorio](https://github.com/AlgorithmusVita/projetos)):** Jogo digital desenvolvido em grupo utilizando C# para uma Game Jam.
