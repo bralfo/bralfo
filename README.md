@@ -8,7 +8,7 @@ Desenvolvedor de Software em formação pela **UFBRA**, focado na construção d
 - 📱 Experiência prática com ecossistemas mobile (**Android / Kotlin**) e web.
 - 🤖 Entusiasta no uso de ferramentas de IA (LLMs) para acelerar o desenvolvimento, automação e refatoração de código.
 - 🌎 Inglês Avançado para documentações e comunicação técnica.
-- 👾 Nas horas vagas, curto explorar jogos com estética retro/pixel art de terror e passar um tempo com meus gatos (que, aliás, adoram dar uma volta na rua).
+- 👾 Nas horas vagas, curto tocar violão e cantar (ambos bem mal).
 
 ### 🛠️ Minhas Tecnologias
 <!-- Badges gerados via shields.io. Sinta-se livre para adicionar outros! -->
