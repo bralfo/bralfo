@@ -22,8 +22,8 @@ Desenvolvedor de Software em formação pela **UFBRA**, focado na construção d
 ### 📊 Estatísticas do GitHub
 <!-- Esses cards se atualizam sozinhos com base na sua atividade real -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bralfo&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bralfo&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bralfo&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bralfo&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="150" />
 </div>
 
 ### 🚀 Projetos em Destaque
