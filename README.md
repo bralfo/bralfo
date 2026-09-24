@@ -28,5 +28,5 @@ Desenvolvedor de Software em formação pela **UFBRA**, focado na construção d
 
 ### 🚀 Projetos em Destaque
 - **[Querem Roubar Meus Ovos](https://github.com/bralfo/QueremRoubarMeusOvos):** Jogo digital desenvolvido em C# aplicando Programação Orientada a Objetos, gerenciamento de estado e arquitetura baseada em componentes na Unity. 
-- **[SnowThrow](https://github.com/bralfo/SnowThrow):** Jogo digital 3D desenvolvido com C#.
-- **[AlgorithmusVitae](https://github.com/AlgorithmusVita/projetos):** Jogo digital desenvolvido em grupo utilizando C# para uma Game Jam.
+- **[Cheese Clicker](https://github.com/bralfo/SnowThrow):** Jogo digital desenvolvido com C# feito em uma semana para uma Game Jam.
+- **[Dino Against the Volcano](https://github.com/AlgorithmusVita/projetos):** Jogo digital desenvolvido em grupo utilizando C# para uma Game Jam.
